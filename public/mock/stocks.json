@@ -1,0 +1,74 @@
+[
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "price": 175.43,
+    "change": 2.15,
+    "changePercent": 1.24,
+    "volume": 67543210,
+    "marketCap": 2750000000000,
+    "pe": 28.5,
+    "high52Week": 198.23,
+    "low52Week": 124.17
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc.",
+    "price": 142.56,
+    "change": -1.23,
+    "changePercent": -0.85,
+    "volume": 34567890,
+    "marketCap": 1800000000000,
+    "pe": 25.2,
+    "high52Week": 151.55,
+    "low52Week": 83.34
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla Inc.",
+    "price": 248.87,
+    "change": 12.34,
+    "changePercent": 5.22,
+    "volume": 89765432,
+    "marketCap": 790000000000,
+    "pe": 45.6,
+    "high52Week": 299.29,
+    "low52Week": 138.80
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "name": "Reliance Industries Ltd.",
+    "price": 2456.75,
+    "change": 34.50,
+    "changePercent": 1.42,
+    "volume": 12345678,
+    "marketCap": 16600000000000,
+    "pe": 22.8,
+    "high52Week": 2856.15,
+    "low52Week": 2103.40
+  },
+  {
+    "symbol": "TCS.NS",
+    "name": "Tata Consultancy Services Ltd.",
+    "price": 3678.90,
+    "change": -45.20,
+    "changePercent": -1.21,
+    "volume": 5678901,
+    "marketCap": 13400000000000,
+    "pe": 26.3,
+    "high52Week": 4043.90,
+    "low52Week": 3056.05
+  },
+  {
+    "symbol": "INFY.NS",
+    "name": "Infosys Ltd.",
+    "price": 1534.25,
+    "change": 18.75,
+    "changePercent": 1.24,
+    "volume": 8901234,
+    "marketCap": 6350000000000,
+    "pe": 24.1,
+    "high52Week": 1729.95,
+    "low52Week": 1330.20
+  }
+]
