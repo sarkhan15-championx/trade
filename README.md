@@ -1,0 +1,2 @@
+# trade
+Trading indian stock
